@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="normal">5dp</dimen>
+    <dimen name="header">18sp</dimen>
+    <dimen name="desc">15sp</dimen>
+</resources>
